@@ -20,5 +20,5 @@ The following env variables are supported:
  ✏️ Title: Mother's Day
  👤 Artist: Cole Norton
  💽 Album:  Mother's Day
- 🎼 Genre: Pop ```
+ 🎼 Genre: Pop 
 
