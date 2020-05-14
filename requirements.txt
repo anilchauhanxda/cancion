@@ -1,4 +1,2 @@
 telethon
-python-telegram-bot
-mutagen
 requests
