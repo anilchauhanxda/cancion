@@ -1,5 +1,5 @@
 # 𝗖𝗔𝗡𝗖𝗜Ó𝗡 // @songsxd 
-> This userbot that can help you to post your liked YouTube songs.
+> This userbot that can help you to post your liked YouTube songs in your public channel.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
