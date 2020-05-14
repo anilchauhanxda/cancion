@@ -74,10 +74,7 @@ def change_caption(bot, update):
 def start(bot, update):
     chat_id = update.effective_message.chat_id
     message_id = update.effective_message.message_id
-    start_message = """Heya!! there, I'm Akame
-I'm here to help to manage your music channel.
-With just adding this bot to your channel, it automatically adds audio details in it's caption with bellow format.
-Join support chat @allukatm"""
+    start_message = Config.START
     bot.send_message(chat_id=chat_id, text=start_message, reply_to_message_id=message_id)
 
 
