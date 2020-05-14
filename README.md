@@ -14,7 +14,7 @@ The following env variables are supported:
  - `SONGS_CHANN`: Enter your public songs channel username.
  
  ### Todo (optional)
- Add [Akame](https://telegram.dog/akameRobot) bot into your public channel, this bot help to automate rename caption trigger in every new post.
+ Add [akame](https://telegram.dog/akameRobot) bot into your public channel, this bot help to automate rename caption trigger in every new post.
  ```
  ✏️ Title: Mother's Day
  👤 Artist: Cole Norton
