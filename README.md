@@ -10,6 +10,14 @@ The following env variables are supported:
  - `APP_ID`: Get this value from my.telegram.org! Please do not steal.
  - `API_HASH`: Get this value from my.telegram.org! Please do not steal.
  - `HU_STRING_SESSION`: Put here your session key.
+ - `TOKEN`: Put here your bot token. 
  - `DEEZER_BOT`: Enter any deezer bot username. 
  - `SONGS_CHANN`: Enter your public songs channel username.
+ 
+ ### Todo
+ Add your bot into your public channel, this bot help to automate rename caption trigger in every new post.
+ `✏️ Title: Mother's Day
+ 👤 Artist: Cole Norton
+ 💽 Album:  Mother's Day
+ 🎼 Genre: Pop`
 
