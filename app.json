@@ -34,6 +34,10 @@
       "value": "802002142",
       "required": false
     },
+    "TOKEN": {
+      "description": "Put here your bot token.",
+      "value": ""
+    },
     "DEEZER_BOT": {
       "description": "Enter any deezer bot username.",
       "value": "@DeezLoadBot"
