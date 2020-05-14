@@ -85,7 +85,7 @@ class meanii(TelegramClient):
         mod.logger = logging.getLogger(shortname)
         # declare Config and tgbot to be accessible by all modules
         mod.Config = self.config
-        if self.config.TG_BOT_USER_NAME_BF_HER is not None:
+        if TG_BOT_USER_NAME_BF_HER is not None:
             mod.tgbot = self.tgbot
 
 
