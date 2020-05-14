@@ -38,6 +38,11 @@
       "description": "Put here your bot token.",
       "value": ""
     },
+    "START": {
+      "description": "Put here your bot start(/start) message.",
+      "value": "",
+      "required": false
+    },
     "DEEZER_BOT": {
       "description": "Enter any deezer bot username.",
       "value": "@DeezLoadBot"
