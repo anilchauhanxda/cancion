@@ -34,13 +34,13 @@ class meanii(TelegramClient):
         }
 
         self.tgbot = None
-        if api_config.TG_BOT_USER_NAME_BF_HER is not None:
+        if TG_BOT_USER_NAME_BF_HER is not None:
             # ForTheGreatrerGood of beautification
             self.tgbot = TelegramClient(
                 "TG_BOT_TOKEN",
                 api_id=api_config.APP_ID,
                 api_hash=api_config.API_HASH
-            ).start(bot_token=api_config.TG_BOT_TOKEN_BF_HER)
+            ).start(bot_token=TG_BOT_TOKEN_BF_HER)
 
         super().__init__(session, **kwargs)
 
