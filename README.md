@@ -16,8 +16,9 @@ The following env variables are supported:
  
  ### Todo
  Add your bot into your public channel, this bot help to automate rename caption trigger in every new post.
- ```✏️ Title: Mother's Day
+ ```
+ ✏️ Title: Mother's Day
  👤 Artist: Cole Norton
  💽 Album:  Mother's Day
- 🎼 Genre: Pop```
+ 🎼 Genre: Pop ```
 
